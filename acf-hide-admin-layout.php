@@ -44,7 +44,6 @@ function janHideAdminLayouts() {
 						} else if ($popupMenu.hasClass('bottom')) {
 							finalTop = popupMenuNativeTop;
 						}
-						// console.log('finalTop ' + finalTop + ' ' + popupMenuNativeTop + ' ' + addToOrSubtractFromTop);
 
 						$popupMenu.css({
 							top: finalTop + 'px',
