@@ -1,4 +1,4 @@
 # acf-hide-admin-layout
-Hide Admin-only ACF Flexible Layouts from popumenu
+Simple Wordpress-Plugin to hide Admin-only ACF Flexible Layouts from popumenu
 
 To be completed...
