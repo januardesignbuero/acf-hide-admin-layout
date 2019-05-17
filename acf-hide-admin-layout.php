@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:  ACF Hide Admin Layout Control
- * Plugin URI:
+ * Plugin URI:	 https://github.com/januardesignbuero/acf-hide-admin-layout
  * Description:  Hide Layouts with prefix ADMIN if curren user has other role than admin
  * Version:      0.1.0
  * Author:       Januar Designbüro GmbH
